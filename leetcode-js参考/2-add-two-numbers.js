@@ -28,6 +28,7 @@ function single(l1, l2, res) {
       addOne = 1;
     } else {
       curVal = sum;
+      
       addOne = 0;
     }
 
